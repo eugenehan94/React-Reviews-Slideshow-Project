@@ -1,3 +1,12 @@
+# React-Reviews-Slideshow-Project
+
+This project was create with React.js.
+
+Created an API with client name and review with JSON server. Performed a GET request using fetch API.
+
+
+
+----------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

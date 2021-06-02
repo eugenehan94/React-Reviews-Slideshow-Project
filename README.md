@@ -8,7 +8,6 @@ Created an API with client name and review with JSON server. Performed a GET req
 ## Top of page
 ![ReviewSlideshowScreenShot](images/ReviewSlideshowScreenShot.jpg)
 
-
 ----------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 

@@ -5,6 +5,9 @@ This project was create with React.js.
 Created an API with client name and review with JSON server. Performed a GET request using fetch API.
 
 
+## Top of page
+![ReviewSlideshowScreenShot](ReviewSlideshowScreenShot.jpg)
+
 
 ----------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App

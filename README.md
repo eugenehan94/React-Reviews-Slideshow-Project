@@ -2,10 +2,11 @@
 
 This project was create with React.js.
 
-Created an API with client name and review with JSON server. Performed a GET request using fetch API.
+Created an API with clients' name and review with JSON server. 
+Performed a GET request using fetch API.
 
 
-## Top of page
+## Screenshot of application
 ![ReviewSlideshowScreenShot](src/images/ReviewSlideshowScreenShot.jpg)
 
 ----------------------------------------------------------------------------------------------------------

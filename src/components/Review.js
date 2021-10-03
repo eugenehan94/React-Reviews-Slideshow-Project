@@ -2,17 +2,21 @@ import React from "react";
 import { useState, useEffect } from "react";
 import "../css/Review.css";
 import { FaArrowLeft, FaArrowRight, FaRandom } from "react-icons/fa";
+import data from "../data/data";
 const Review = () => {
   const [index, setIndex] = useState(0);
   const [people, setPeople] = useState([index]);
   useEffect(() => {
-    const fetchTasks = async () => {
-      const res = await fetch("http://localhost:5000/review");
-      const data = await res.json();
-      setPeople(data);
-    };
+    //Commented out code is for JSON Server API
+    // const fetchTasks = async () => {
+    //   const res = await fetch("http://localhost:5000/review");
+    //   const data = await res.json();
+    //   setPeople(data);
+    // };
 
-    fetchTasks();
+    // fetchTasks();
+
+    setPeople(data);
   }, []);
 
   const previousPerson = () => {

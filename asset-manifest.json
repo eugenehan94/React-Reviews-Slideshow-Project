@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Reviews-Slideshow-Project/static/css/main.2261ef8c.chunk.css",
+    "main.js": "/React-Reviews-Slideshow-Project/static/js/main.d7881eee.chunk.js",
+    "main.js.map": "/React-Reviews-Slideshow-Project/static/js/main.d7881eee.chunk.js.map",
+    "runtime-main.js": "/React-Reviews-Slideshow-Project/static/js/runtime-main.a76f1341.js",
+    "runtime-main.js.map": "/React-Reviews-Slideshow-Project/static/js/runtime-main.a76f1341.js.map",
+    "static/js/2.9c292b9d.chunk.js": "/React-Reviews-Slideshow-Project/static/js/2.9c292b9d.chunk.js",
+    "static/js/2.9c292b9d.chunk.js.map": "/React-Reviews-Slideshow-Project/static/js/2.9c292b9d.chunk.js.map",
+    "index.html": "/React-Reviews-Slideshow-Project/index.html",
+    "static/css/main.2261ef8c.chunk.css.map": "/React-Reviews-Slideshow-Project/static/css/main.2261ef8c.chunk.css.map",
+    "static/js/2.9c292b9d.chunk.js.LICENSE.txt": "/React-Reviews-Slideshow-Project/static/js/2.9c292b9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a76f1341.js",
+    "static/js/2.9c292b9d.chunk.js",
+    "static/css/main.2261ef8c.chunk.css",
+    "static/js/main.d7881eee.chunk.js"
+  ]
+}
